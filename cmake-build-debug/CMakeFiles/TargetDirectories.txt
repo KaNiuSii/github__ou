@@ -1,0 +1,3 @@
+C:/Users/siema/Pulpit/github__ou/cmake-build-debug/CMakeFiles/github__ou.dir
+C:/Users/siema/Pulpit/github__ou/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/siema/Pulpit/github__ou/cmake-build-debug/CMakeFiles/rebuild_cache.dir
